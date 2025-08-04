@@ -18,7 +18,7 @@ This is also part of my learning journey with the [Power Learn Project (PLP)](ht
 🌐 **Live Website**
 
 🔗 You can view the live site here:
-👉 [https://your-github-username.github.io/portfolio/](https://your-github-username.github.io/portfolio/)
+👉 [https://your-github-username.github.io/portfolio/](https://github.com/Samuelsaykey/portofolio-project)
 
 
 
@@ -99,7 +99,7 @@ Feel free to connect with me:
 
 - 📧 Email: [samuelsaykey@gmail.com](mailto:samuelsaykey@gmail.com)
 - 🌍 Location: Narok, Kenya
-- 💼 Portfolio GitHub Repo: [github.com/samuelseki/portfolio](https://github.com/samuelseki/portfolio)
+- 💼 Portfolio GitHub Repo: (https://github.com/Samuelsaykey/portofolio-project)
 
 ---
 
